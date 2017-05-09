@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "396856988813",
+    "project_id": "firebase-googl"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396856988813:android:6d8a97d900191331",
+        "android_client_info": {
+          "package_name": "com.example.googlemaptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXA1WReV2odf9-29BAMW3kuVNGIFvor4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

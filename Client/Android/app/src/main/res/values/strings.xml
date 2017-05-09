@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Somebody help me</string>
+    <string name="registering_message_ready">Bring the token</string>
+    <string name="registering_message_generating">InstanceID token making....</string>
+    <string name="registering_message_complete">complete!!</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
